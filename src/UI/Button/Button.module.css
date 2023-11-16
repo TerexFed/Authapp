@@ -1,0 +1,37 @@
+.btn_elem{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    margin: 10px 0px;
+    padding: 14px 24px;
+    border-radius: 50px;
+
+    color: #1a1a1a;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 20px;
+
+    cursor: pointer;
+}
+
+.yellow {
+    background-color: #FFE44D;
+    border: none
+}
+.yellow:hover{
+    background-color: #e3d169;
+    transition: 0.2s;
+    transform: scale(1.1);
+}
+
+.white {
+    background-color: white;
+    border: 0.5px solid #CFD8DC;
+}
+.white:hover {
+    background-color: black;
+    color: white;
+    transition: 0.2s;
+}

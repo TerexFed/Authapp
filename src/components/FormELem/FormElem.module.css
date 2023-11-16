@@ -1,0 +1,24 @@
+.warning_text {
+    color: red;
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: italic;
+    font-weight: 200;
+    font-size: 12px;
+    text-align: end;
+    line-height: 14px;
+}
+
+.info_text {
+    width: 350px;
+    color: gray;
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: normal;
+    font-weight: 300;
+    font-size: 14px;
+    line-height: 16px;
+    text-align: center;
+}
+
+h2{
+    text-align: center;
+}
